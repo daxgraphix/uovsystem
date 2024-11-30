@@ -27,7 +27,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Voting System</title>
+    <title>University Online Voting System</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/all.min.css">
     <style>
@@ -46,7 +46,7 @@
 </head>
 <body>
     <div class="container">
-    <div class="heading"><h1>Online Voting System</h1></div>
+    <div class="heading"><h1>University Online Voting System</h1></div>
     <div class="header">
             <span class="logo">Voting System</span>
             <span class="profile" onclick="showProfile()"><img src="<?php echo $_SESSION['idcard']; ?>" alt=""><label><?php echo$_SESSION['fname']." ".$_SESSION['lname'];?></label></span>

@@ -10,7 +10,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Voting System</title>
+    <title>University Online Voting System</title>
     <link rel="stylesheet" href="css/style.css">
     <style>
         .msg
@@ -23,7 +23,7 @@
 </head>
 <body>
    <div class="container">
-        <div class="heading"><h1>Online Voting System</h1></div>
+        <div class="heading"><h1>University Online Voting System</h1></div>
         <div class="msg"><b>Note:</b> Fill this form for change phone number. SMS send regarding to change phone number on your new phone number after verify your details.</div>
         <form action="" method="POST" enctype="multipart/form-data">
             <div class="form">
